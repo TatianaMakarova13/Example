@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\Example 001_HelloConcole.exe
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\Example 001_HelloConcole.deps.json
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\Example 001_HelloConcole.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\Example 001_HelloConcole.dll
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\ref\Example 001_HelloConcole.dll
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\bin\Debug\net6.0\Example 001_HelloConcole.pdb
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.GlobalUsings.g.cs
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.dll
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\ref\Example 001_HelloConcole.dll
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.pdb
+C:\Users\Татьяна\Desktop\Examples\Example 001_HelloConcole\obj\Debug\net6.0\Example 001_HelloConcole.genruntimeconfig.cache
