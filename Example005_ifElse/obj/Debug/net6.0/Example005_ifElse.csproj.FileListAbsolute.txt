@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.exe
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.deps.json
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.dll
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\ref\Example005_ifElse.dll
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.pdb
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.GlobalUsings.g.cs
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.dll
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\ref\Example005_ifElse.dll
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.pdb
+C:\Users\Татьяна\Desktop\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.genruntimeconfig.cache
